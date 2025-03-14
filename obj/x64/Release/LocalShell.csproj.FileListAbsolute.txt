@@ -1,0 +1,7 @@
+C:\Users\minhnt79\Desktop\Anti-AV\LocalShell\bin\x64\Release\LocalShell.exe.config
+C:\Users\minhnt79\Desktop\Anti-AV\LocalShell\bin\x64\Release\LocalShell.exe
+C:\Users\minhnt79\Desktop\Anti-AV\LocalShell\bin\x64\Release\LocalShell.pdb
+C:\Users\minhnt79\Desktop\Anti-AV\LocalShell\obj\x64\Release\LocalShell.csproj.AssemblyReference.cache
+C:\Users\minhnt79\Desktop\Anti-AV\LocalShell\obj\x64\Release\LocalShell.csproj.CoreCompileInputs.cache
+C:\Users\minhnt79\Desktop\Anti-AV\LocalShell\obj\x64\Release\LocalShell.exe
+C:\Users\minhnt79\Desktop\Anti-AV\LocalShell\obj\x64\Release\LocalShell.pdb
